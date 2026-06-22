@@ -21,7 +21,7 @@ const CONFIG = {
   "garena_hint": false,
   "gop_url": "",
   "gamevar": "var_name,comment,var_type,var_value\nvar_name,comment,\"var_type float, int, bool\",var_value\nANODisabledRegions,关闭MTP的地区,string,\"IND,NA\"\nANODisabledClientVariant,ANODisabledClientVariant,string,\"ClientUsingVersion_MAX_HPE,ClientUsingVersion_FFI,ClientUsingVersion_MAX|IND,ClientUsingVersion_MAX|NA,ClientUsingVersion_NORMAL|NA\"\nEnableMtpLiteDataRegion,mtp轻特征开关,string,\"BR,EUROPE,ID,ME,US,RU,SAC,SG,TH,TW,VN,PK,ZA,BD\"\nANOEmulatorCheckDisbaledClientVariant,ANOEmulatorCheckDisbaledClientVariant,string,\"ClientUsingVersion_FFI,ClientUsingVersion_MAX,ClientUsingVersion_NORMAL\"\nForceTutorial_ChangeHudABTest,fps流程中打开hud选择界面的概率,float,-1\nIsUseMedkitForceStand,IsUseMedkitForceStand,bool,false,,\nAutoEnemyMarkSwitch,AutoEnemyMarkSwitch,int,2,,\nReleaseMemForMatchEndFor3I3A,ReleaseMemForMatchEndFor3I3A,bool,false,,\nEnableFFOPortingHDAnimation,EnableFFOPortingHDAnimation,bool,false,,\nEnableReportIOFailedLogs,EnableReportIOFailedLogs,bool,false,,\nPGSRecallReadIPRegions_Mobile,PGSRecallReadIPRegions_Mobile,string,,,\nPGSRecallReadIPRegions_HPE,PGSRecallReadIPRegions_HPE,string,,,\nPGSRecallWriteIPRegions_Mobile,PGSRecallWriteIPRegions_Mobile,string,,,\nPGSRecallWriteIPRegions_HPE,PGSRecallWriteIPRegions_HPE,string,,,\nEnableFileInfoEncryptionIOS,EnableFileInfoEncryptionIOS,bool,TRUE,SG,\nEnableFileInfoEncryptionAndroid,EnableFileInfoEncryptionAndroid,bool,TRUE,SG,",
-  "device_whitelist_version": "2.6.0",
+  "device_whitelist_version": "1.6.0",
   "whitelist_mask": 0,
   "device_whitelist_sp_version": "1.0.0",
   "whitelist_sp_mask": 0,
